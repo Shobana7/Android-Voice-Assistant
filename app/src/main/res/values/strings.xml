@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeyDude</string>
+    <string name="hey_dude">Hey Dude!</string>
+    <string name="title_activity_battery">BatteryActivity</string>
+    <string name="battery">Battery</string>
+    <string name="date_time">Date Time</string>
+</resources>
